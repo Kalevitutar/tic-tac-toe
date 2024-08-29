@@ -8,7 +8,7 @@ function Square() {
   return (<button className="square" onClick={handleClick}>{value}</button>);
 }
 
-console.log("adding this in to test whether Github problem is resolved or not");
+console.log("adding this in to test whether Github problem is resolved or not - testing again");
 
 export default function Board() {
   return (
